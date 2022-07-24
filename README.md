@@ -4,8 +4,9 @@ The project is still not online and under development.
 For testing by your own, please follow the instruction
 
 #Before start
-1. Open Terminal to Run using Visual Code
-2. Install the Node Package by npm install
+1. Check our repository at https://github.com/gilangmon/vox-sculpt
+2. Open Terminal to Run using Visual Code
+3. Install the Node Package by npm install
 
 #Run the Tower
 1. Npm Start on the Terminal
